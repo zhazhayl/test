@@ -1,3 +1,5 @@
 a new version, have more function.
 
 ready for reset.
+
+make a bug and modifier
